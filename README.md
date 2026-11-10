@@ -60,3 +60,6 @@ Covers the signal-quality gate, baseline timer pausing, pacer phases, the readin
 ## License
 
 MIT for this app. The SmartSpectra SDK has its own license.
+
+## Demo video disclosure
+The demo video uses licensed stock test footage (Mixkit, "Man talking in a video conference call", Mixkit Stock Video Free License, https://mixkit.co/free-stock-video/man-talking-in-a-video-conference-call-14041/). The author is not on camera. The pulse and breathing values in the video come live from the real Presage SmartSpectra SDK. The video is labelled on screen. The stock clip itself is not in this repo.
