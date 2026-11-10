@@ -1,0 +1,10 @@
+{
+  "name": "sama-presage",
+  "version": "1.0.0",
+  "description": "Sama - paced breathing rehearsal with live pulse and breathing from the Presage SmartSpectra SDK",
+  "type": "commonjs",
+  "scripts": { "start": "node server.js", "test": "node --test test/*.test.js" },
+  "engines": { "node": ">=20" },
+  "dependencies": { "@smartspectra/node-sdk": "^3.5.0", "ws": "^8.18.0" },
+  "license": "MIT"
+}
